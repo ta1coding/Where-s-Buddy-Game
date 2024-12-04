@@ -26,7 +26,7 @@
    - Implement procedural level creation using AI tools.
 
 2. Timer:
-   - Track and display time for each level.
+   - Track and display elapsed time for each level.
 
 3. Replace Waldo with Buddy:
    - Update assets and adapt target detection.
@@ -35,7 +35,7 @@
    - Add audio feedback on level completion.
 
 ### Timeline
-- **P 1**: Refactor code and implement timer.
+- **P 1**: Implement timer & level completion card.
 - **P 2**: Update assets and integrate audio.
 - **P 3**: Research and integrate AI for level generation.
 
