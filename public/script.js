@@ -9,7 +9,7 @@ const levels = [
     },
     {
         image: 'levels/level3.jpg',
-        targetPosition: { x: 224, y: 424, width: 10, height: 22 }
+        targetPosition: { x: 248, y: 182, width: 20, height: 30 }
     },
     {
         image: 'levels/level4.jpg',
@@ -17,7 +17,7 @@ const levels = [
     },
     {
         image: 'levels/level5.jpg',
-        targetPosition: { x: 840, y: 395, width: 6, height: 15 }
+        targetPosition: { x: 257, y: 201, width: 15, height: 25 }
     },
     {
         image: 'levels/level6.jpg',
