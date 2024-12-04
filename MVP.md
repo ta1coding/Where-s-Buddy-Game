@@ -1,4 +1,3 @@
-
 ---
 
 ### **MVP.md**
@@ -11,6 +10,7 @@
    - Dynamic level loading with configurable target zones.
    - Modal for game completion.
    - Restart functionality.
+   - Timer functionality.
 
 2. Developer Mode:
    - Coordinate display.
@@ -19,23 +19,17 @@
 3. Clean UI:
    - Responsive design for multiple screen sizes.
    - Intuitive player interactions.
+   - Pleasant congratulatory jingle.
 
 ## Next Steps
 ### Features
 1. AI-Generated Levels:
    - Implement procedural level creation using AI tools.
 
-2. Timer:
-   - Track and display elapsed time for each level.
-
-3. Replace Waldo with Buddy:
+2. Replace Waldo with Buddy:
    - Update assets and adapt target detection.
 
-4. Congratulatory Jingle:
-   - Add audio feedback on level completion.
-
 ### Timeline
-- **P 0**: Find Waldo for level 6 (5 mins)
 - **P 1**: Implement timer & level completion card. (2 days)
 - **P 2**: Update assets and integrate audio. (2 days)
 - **P 3**: Research and integrate AI for level generation. (1 week)
