@@ -10,6 +10,7 @@
    - Dynamic level loading with configurable target zones.
    - Modal for game completion.
    - Restart functionality.
+   - Timer functionality.
 
 2. Developer Mode:
    - Coordinate display.
@@ -18,20 +19,15 @@
 3. Clean UI:
    - Responsive design for multiple screen sizes.
    - Intuitive player interactions.
+   - Pleasant congratulatory jingle.
 
 ## Next Steps
 ### Features
 1. AI-Generated Levels:
    - Implement procedural level creation using AI tools.
 
-2. Timer:
-   - Track and display elapsed time for each level.
-
-3. Replace Waldo with Buddy:
+2. Replace Waldo with Buddy:
    - Update assets and adapt target detection.
-
-4. Congratulatory Jingle:
-   - Add audio feedback on level completion.
 
 ### Timeline
 - **P 1**: Implement timer & level completion card. (2 days)
