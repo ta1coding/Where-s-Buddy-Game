@@ -1,4 +1,3 @@
-
 ---
 
 ### **MVP.md**
@@ -35,7 +34,6 @@
    - Add audio feedback on level completion.
 
 ### Timeline
-- **P 0**: Find Waldo for level 6 (5 mins)
 - **P 1**: Implement timer & level completion card. (2 days)
 - **P 2**: Update assets and integrate audio. (2 days)
 - **P 3**: Research and integrate AI for level generation. (1 week)
