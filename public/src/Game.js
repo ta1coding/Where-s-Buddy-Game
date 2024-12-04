@@ -63,6 +63,9 @@ export class Game {
 
     const timeDisplay = document.getElementById("time-display");
     timeDisplay.textContent = `Total Time: ${totalTime} seconds`;
+
+    const audio = document.getElementById("completion-sound");
+    audio.play();
   }
 
   restartGame() {
