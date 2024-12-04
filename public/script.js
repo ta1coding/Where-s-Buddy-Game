@@ -43,7 +43,8 @@ class WaldoGame {
         this.restartBtn.addEventListener('click', this.restartGame.bind(this));
 
         // Add developer mode toggle
-        this.createDeveloperModeElements();
+        // Uncomment the following line to enable developer mode
+        // this.createDeveloperModeElements();
     }
 
     createDeveloperModeElements() {
