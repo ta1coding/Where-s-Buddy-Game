@@ -1,26 +1,26 @@
 const levels = [
     {
-        image: 'level1.jpg',
+        image: 'levels/level1.jpg',
         targetPosition: { x: 820, y: 450, width: 11, height: 22 }
     },
     {
-        image: 'level2.jpg',
+        image: 'levels/level2.jpg',
         targetPosition: { x: 840, y: 389, width: 11, height: 22 }
     },
     {
-        image: 'level3.jpg',
+        image: 'levels/level3.jpg',
         targetPosition: { x: 224, y: 424, width: 10, height: 22 }
     },
     {
-        image: 'level4.jpg',
+        image: 'levels/level4.jpg',
         targetPosition: { x: 374, y: 374, width: 10, height: 20 }
     },
     {
-        image: 'level5.jpg',
+        image: 'levels/level5.jpg',
         targetPosition: { x: 840, y: 395, width: 6, height: 15 }
     },
     {
-        image: 'level6.jpg',
+        image: 'levels/level6.jpg',
         targetPosition: { x: 300, y: 486, width: 10, height: 20 }
     }
 ];
