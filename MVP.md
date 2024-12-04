@@ -35,8 +35,8 @@
    - Add audio feedback on level completion.
 
 ### Timeline
-- **P 1**: Implement timer & level completion card.
-- **P 2**: Update assets and integrate audio.
-- **P 3**: Research and integrate AI for level generation.
+- **P 1**: Implement timer & level completion card. (2 days)
+- **P 2**: Update assets and integrate audio. (2 days)
+- **P 3**: Research and integrate AI for level generation. (1 week)
 
 ---
