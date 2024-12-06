@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     <title>Find the Character Game</title>
     <link rel="stylesheet" href="assets/styles.css" />
     <link rel="icon" type="image/x-icon" href="favicon.ico" />
@@ -12,12 +12,9 @@
     <div id="game-container">
       <h1 id="level-title">Find the Character - Level 1</h1>
       <div id="game-board">
-        <img
-          id="game-image"
-          src="assets/images/placeholder.jpg"
-          alt="Game Level"
-        />
+        <img id="game-image" src="assets/images/placeholder.jpg" alt="Game Level"/>
       </div>
+      <div id="battle-pass-container"></div>
     </div>
 
     <div id="game-over-modal" class="modal hidden">
@@ -28,6 +25,15 @@
         <button id="restart-btn">Restart Game</button>
       </div>
     </div>
+
+    <div id="profile-container" class="hidden">
+      <h2>Your Unlocked Icons</h2>
+      <div id="profile-icons"></div>
+    </div>
+
+    <button id="profile-toggle-btn" style="position: fixed; bottom: 20px; right: 20px; z-index:1000;">
+      Show Profile
+    </button>
 
     <script type="module" src="src/Main.js"></script>
   </body>
