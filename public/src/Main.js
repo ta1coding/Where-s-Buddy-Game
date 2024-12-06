@@ -6,5 +6,6 @@ document.addEventListener('DOMContentLoaded', () => {
     const game = new Game(levels);
 
     // Uncomment the following line to enable developer tools during development
-    // DeveloperTools.initialize(game);
+    //DeveloperTools.initialize(game);
 });
+
